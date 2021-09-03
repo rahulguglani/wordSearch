@@ -59,7 +59,7 @@ def findwordv2(naam):
                         score=score+1
                 # print(score)
             # print('score is '+ str(score))
-            if(score>=length_naam-1):
+            if(score>=length_naam):
                 print("starting index is :",end=' ')
                 print(b)
                 print("i is :",end=' ')
