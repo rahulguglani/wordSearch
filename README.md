@@ -13,3 +13,8 @@ example of output:
 
 ![image](https://user-images.githubusercontent.com/60490438/132054319-0b173b69-4630-4ae2-bc1d-01b498537ffe.png)
 ![image](https://user-images.githubusercontent.com/60490438/132054393-1bc46b15-76c5-4a45-9a5d-7a34a935f815.png)
+
+
+requirements:
+opencv-python
+numpy
